@@ -10,3 +10,7 @@ This project involved building a class based Tkinter UI and reviewing OOP concep
 
 <h2> Day 35: Rain Alert App </h2>
 Learned about API keys, authentication, environment variables and sending SMS using Python. Built an rain alert app that messages you in the morning, telling you to bring an umbrella if it's going to rain.
+
+<h2> Day 36: Stock Trading News Alert Project </h2>
+A Python program to help you trade stocks. 
+Use an API to get stock price data and calculate the increase/decrease in the value of the stock. If there's a difference of 10% or more in yesterday's closing price and today's closing price, the program will fetch some relevant news via an API. This helps you figure out the reason for the drop or rise in price. Then, the program sends us an SMS describing the fluctuation that happened and the relevant news to help us decide whether to buy or sell stock.
