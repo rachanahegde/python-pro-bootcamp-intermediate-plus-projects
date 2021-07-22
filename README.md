@@ -15,4 +15,4 @@ Learned about API keys, authentication, environment variables and sending SMS us
 A Python program to help you trade stocks. It uses an API to get stock price data and calculates the percent increase/decrease in the value of the stock. If there's over 5% increase/decrease, the program will message us information about the fluctuation and send the first three recent news articles about the company (using an news API). I completed the hard level version of this project.
 
 <h2> Day 37: Habit Tracker Project </h2>
-Learned about advanced authentication and making POST/PUT/DELETE requests using the requests module. Used Pixela to build a habit tracker which also displays the varying degrees of intensity to which you commmitted to the habit that day (i.e. meditating for 5 mins vs 30 mins).
+Learned about advanced authentication and making POST/PUT/DELETE requests using the requests module. I used Pixela to build a habit tracker which displays the varying degrees of intensity to which I commmitted to the habit that day (i.e. coding for 30 mins).
