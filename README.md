@@ -18,4 +18,4 @@ A Python program to help you trade stocks. It uses an API to get stock price dat
 Learned about advanced authentication and making POST/PUT/DELETE requests using the requests module. I used Pixela to build a habit tracker which displays the varying degrees of intensity to which I commmitted to the habit that day (i.e. coding for 30 mins).
 
 <h2> Day 38: Exercise Tracking Application </h2>
-Built a workout tracking application using google sheets and natural language processing. 
+Built a workout tracking application using google sheets and natural language processing. This project helped review what I learned about APIs and making POST requests, authorization headers, and environment variables.
