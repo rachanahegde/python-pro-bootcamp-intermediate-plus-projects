@@ -20,7 +20,9 @@ Learned about advanced authentication and making POST/PUT/DELETE requests using 
 <h2> Day 38: Exercise Tracking Application </h2>
 Built a workout tracking application using google sheets and natural language processing (via Nutritionix API). This project helped review what I learned about APIs and making POST requests, authorization headers, and environment variables.
 
-<h2> Day 39: Capstone Part 1: Flight Deal Finder </h2>
-This program will find flight deals for us to save $$ on our next trip. Google sheets tracks the locations we want to visit and the price cutoff (historical low price). We feed this location and price data into an flight search API which searches through all the locations, looking for the cheapest flight in the next 6 months. When it finds a flight deal, it sends the flight date and price via Twilio SMS module to our phone. Then, we can book it right away.
+<h2> Day 39: Capstone Part 1: Flight Deal Finder & Day 40: Capstone Part 2: Flight Club</h2>
+
+Part 1: This program will find flight deals for us to save $$ on our next trip. Google sheets tracks the locations we want to visit and the price cutoff (historical low price). We feed this location and price data into an flight search API which searches through all the locations, looking for the cheapest flight in the next 6 months. When it finds a flight deal, it sends the flight date and price via Twilio SMS module to our phone. Then, we can book it right away.
+
 
 Part 2: This project turns into a product that lets users sign up to use our service.
