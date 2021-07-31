@@ -26,5 +26,5 @@ Part 1: This program finds flight deals for us to save $$ on our next trip. Goog
 
 Part 2: This project turned into a product that let users sign up to use our service. We send users an email notifying them of the best flight deals.
 
-<h2> Day 41: Web Foundation - Intro to HTML </h2>
+<h2> Day 41-42: Web Foundation - Intro to HTML & Intermediate HTML </h2>
 Building a personal CV website.
