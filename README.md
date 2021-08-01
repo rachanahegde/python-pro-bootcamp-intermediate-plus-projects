@@ -26,5 +26,7 @@ Part 1: This program finds flight deals for us to save $$ on our next trip. Goog
 
 Part 2: This project turned into a product that let users sign up to use our service. We send users an email notifying them of the best flight deals.
 
-<h2> Day 41-42: Web Foundation - HTML Personal Site </h2>
-Building a personal CV website using HTML. (This helped me review how to write HTML code since it's been over half a year since I studied web dev.)
+<h2> Day 41-43: Web Foundation - HTML Personal Site </h2>
+Building a personal CV website using HTML and basic CSS. 
+
+<h2> Day 44: Web Foundation - Intermediate CSS </h2>
