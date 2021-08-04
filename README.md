@@ -33,4 +33,4 @@ Building a personal CV website using HTML and CSS.
 I watched the lectures on intermediate CSS for Day 45 but opted out of the project since I'm already practicing my HTML/CSS skills through <a href="https://www.frontendmentor.io/profile/rachanahegde">Frontend Mentor</a>.
 
 <h2> Day 45: Web Scraping with Beautiful Soup </h2>
-This project involved using beatiful soup for web scraping in order to compile a list of 100 greatest movies to watch. 
+This project involved using beautiful soup for web scraping in order to compile a list of 100 greatest movies to watch. 
