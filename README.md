@@ -30,4 +30,4 @@ Part 2: This project turned into a product that let users sign up to use our ser
 Building a personal CV website using HTML and CSS. 
 
 <h2> Day 45: Web Foundation [Skipped Project] </h2>
-I watched the lectures on intermediate CSS for Day 45 but opted out of the project since I'm already practicing my HTML/CSS skills through ![Frontend Mentor](https://www.frontendmentor.io/profile/rachanahegde) .
+I watched the lectures on intermediate CSS for Day 45 but opted out of the project since I'm already practicing my HTML/CSS skills through [Frontend Mentor](https://www.frontendmentor.io/profile/rachanahegde) .
