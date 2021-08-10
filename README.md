@@ -39,4 +39,6 @@ This project involved using beautiful soup for web scraping in order to compile 
 I used Python code to create a Spotify playlist of the top 100 songs that were playing on a particular date. To accomplish this, I used Beautiful Soup to scrape the Billboard Hot 100 songs from a certain date and the Spotify API to create a new playlist made up of those songs.
 
 <h2> Day 47: Amazon Price Tracker Project </h2>
-Your program alerts you with an email when the Amazon product price drops below your target price. I used BeautifulSoup to scrape the product price from the Amazon web page then compared this price to the target amount and set up the email alert. 
+The program alerts me with an email when the Amazon product price drops below my target price. I used BeautifulSoup to scrape the product price from the Amazon web page then compared this price to the target amount and set up the email alert with smtplib.
+
+<h2> Day 48: </h2>
