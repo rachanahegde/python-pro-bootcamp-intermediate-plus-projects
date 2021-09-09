@@ -41,5 +41,5 @@ I used Python code to create a Spotify playlist of the top 100 songs that were p
 <h2> Day 47: Amazon Price Tracker Project </h2>
 The program alerts me with an email when the Amazon product price drops below my target price. I used BeautifulSoup to scrape the product price from the Amazon web page then compared this price to the target amount and set up the email alert with smtplib.
 
-<h2> Day 48: Selenium Webdriver Browser and Game Playing Bot </h2>
-
+<h2> Day 48: Cookie Clicker Project </h2>
+I built a bot with Selenium that automatically clicks on the cookie in the Cookie Clicker game and maxes out the cookies per second.
