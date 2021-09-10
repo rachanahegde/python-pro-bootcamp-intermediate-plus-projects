@@ -17,9 +17,9 @@ cookie = driver.find_element_by_id("cookie")
 # money = int(driver.find_element_by_id("money").text.replace(",", ""))
 
 # Set up the timer to end loop after 5 minutes
-timeout = 60 * 5
 timeout_start = time.time()
-check_upgrade = timeout_start + 15
+timeout = 60 * 5  # Five minutes
+check_upgrade = time.time() + 20
 
 upgrades_id = ["buyTime machine", "buyPortal", "buyAlchemy lab", "buyShipment", "buyMine", "buyFactory", "buyGrandma",
                "buyCursor"]
@@ -30,15 +30,14 @@ while time.time() < timeout_start + timeout:
     except StaleElementReferenceException and AttributeError and WebDriverException:
         wait.until(EC.element_to_be_clickable((By.ID, 'cookie'))).click()
 
-    # Check for upgrades every 15 seconds and buy all upgrades available, starting with most expensive
-    if time.time() >= check_upgrade:
-        check_upgrade = time.time() + 15
-
+    # Check for upgrades every 20 seconds and buy all upgrades available, starting with most expensive
+    if time.time() > check_upgrade:
         for upgrade_id in upgrades_id:
             try:
                 driver.find_element_by_id(upgrade_id).click()
             except NoSuchElementException and StaleElementReferenceException:
                 continue
+        check_upgrade = time.time() + 20  # Add another 20 seconds before bot checks for upgrades
 
 # Find final cookies per second score
 cps = driver.find_element_by_id("cps").text
