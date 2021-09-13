@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-USERNAME = "rachana99"
+USERNAME = ""
 TOKEN = ""  # Keep this secure
 GRAPH_ID = "graph1"
 
