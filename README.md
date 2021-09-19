@@ -51,4 +51,6 @@ This project involved using selenium webdriver to open LinkedIn, log in, and app
 I attempted to use selenium to build an auto-swiping tinder bot. Unfortunately, this project was unsuccessful since LinkedIn continued to demand verification via phone and email and/or some kind of CAPTCHA puzzle. This made it impossible to automate the login process and I couldn't find a workable solution to these security measures. (I uploaded the code I wrote up to this point.)
 
 <h2> Day 51: Internet Speed Twitter Complaint Bot </h2>
+This project uses Selenium to automatically check your internet speed before tweeting at your service provider to ask why it's lower than their guaranteed download and upload speed. This project also enabled me to review my OOP skills by creating an InternetSpeedTwitterBot class with two methods, get_internet_speed and tweet_at_provider. 
 
+<h2> Day 52: Instagram Follower Bot </h2>
