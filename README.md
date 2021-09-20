@@ -55,3 +55,6 @@ This project uses Selenium to automatically check your internet speed before twe
 
 <h2> Day 52: Instagram Follower Bot </h2>
 I built a follower bot that will help build my Instagram brand by following users who follow accounts that post similar content as me. Ideally, this will get the attention of those users who could potential follow me back. This bot does, however, get restricted by Instagram after following a certain number of users (even with the sleep function slowing down the button clicking to imitate a human).
+
+<h2> Day 53: Web Scraping Capstone - Data Entry Job Automation </h2>
+I researched house prices that fit a certain criteria for a client on the Zillow website and then transferred that data into a Google form. I used the form to create a spreedsheet in Google sheets. Essentially, I automated an data entry job using everything I learned about web scraping so far with BeautifulSoup and Selenium.
