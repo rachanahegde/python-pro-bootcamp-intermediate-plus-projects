@@ -64,4 +64,5 @@ The project actually required me to use BeautifulSoup to scrape the Zillow websi
 <h2> Day 54: Introduction to Web Development with Flask </h2>
 This set of lectures covered backend web development, the command line, Python decorator functions and using Flask for web development. 
 
-<h2> Day 55: </h2>
+<h2> Day 55: HTML & URL Parsing in Flask and the Higher Lower Game</h2>
+Today's lectures covered rendering and parsing HTML in Flask and advanced decorators in order to build a 'Guess the Number' website. The user types the number into the URL after the forward slash and they find out if their guess is too high, too low, or correct! 
