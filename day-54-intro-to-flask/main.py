@@ -43,7 +43,14 @@ def outer_function():
     return nested_function
 
 inner_function = outer_function()
-inner_function
+inner_function()
+
+# Python Decorator Function
+def decorator_function(function):
+    def wrapper_function():
+        function()
+    return wrapper_function
+
 
 
 # Simple Python Decorator Functions
