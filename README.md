@@ -62,6 +62,6 @@ I researched house prices that fit a certain criteria for a client on the Zillow
 The project actually required me to use BeautifulSoup to scrape the Zillow website but I was unable to do so since the entire page's listings wouldn't load. Instead, I used Selenium and various keys to scroll through all the listings. This enabled me to access the prices, addresses, and links for each listing. Unfortunately, the results of the web scraping were inconsistent - sometimes, I was able to collect the data for all 40 listings and at other times, the first nine loaded before the program crashed with NoSuchElementException errors. In the courses's comments, other students mentioned encountering similar issues and that the website's front end code had changed since Angela developed this course. Zillow also discourages bots by requiring CAPTCHA after the program accesses it multiple times so after I successfully scraped the data I needed, I hardcoded the results as lists. I, then, looped through those lists in order to automatically fill out the Google form.
 
 <h2> Day 54: Introduction to Web Development with Flask </h2>
-This set of lectures covered the command line, Python decorators and using Flask for web development. I have uploaded the coding exercise I completed.
+This set of lectures covered backend web development, the command line, Python decorator functions and using Flask for web development. 
 
 <h2> Day 55: </h2>
