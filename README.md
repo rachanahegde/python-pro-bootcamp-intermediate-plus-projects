@@ -68,4 +68,4 @@ This set of lectures covered backend web development, the command line, Python d
 Today's lectures covered rendering and parsing HTML in Flask and advanced decorators in order to build a 'Guess the Number' website. The user types the number into the URL after the forward slash and they find out if their guess is too high, too low, or correct! 
 
 <h2> Day 56: Personal Namecard App </h2>
-I learned more about web development with Flask (specifically including static files and rendering HTML & CSS files on my website). I built a personal namecard website with social media links and a short bio.
+I learned more about web development with Flask (specifically including static files and rendering HTML & CSS files on my website). I built a personal namecard website with social media links and a short bio using a pre-built HTML template.
