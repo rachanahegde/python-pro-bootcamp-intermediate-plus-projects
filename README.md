@@ -70,4 +70,4 @@ Today's lectures covered rendering and parsing HTML in Flask and advanced decora
 <h2> Day 56: Personal Namecard App </h2>
 I learned more about web development with Flask (specifically including static files and rendering HTML & CSS files on my website). I modified a pre-built HTML template to create a personal namecard website with social media links and a short bio. This was then served up using Flask. 
 
-<h2>  </h2>
+<h2> Templating with Jinja in Flask Applications </h2>
