@@ -13,13 +13,13 @@
     </div>
 
     {% for blog_post in posts: %}
-        <div class="content">
-            <div class="card">
-                <h2> {{ blog_post.title }} </h2>
-                <p class="text"> {{ blog_post.subtitle }} </p>
-                <a href="{{ url_for('get_post',blog_id=blog_post.id) }}">Read</a>
-            </div>
+    <div class="content">
+        <div class="card">
+            <h2> {{ blog_post.title }} </h2>
+            <p class="text"> {{ blog_post.subtitle }} </p>
+            <a href="{{ url_for('show_post', index=blog_post.id) }}">Read</a>
         </div>
+    </div>
     {% endfor %}
 
 </div>

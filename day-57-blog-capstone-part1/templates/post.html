@@ -13,13 +13,9 @@
            </div>
         <div class="content">
             <div class="card">
-            {% for blog_post in posts: %}
-                {% if blog_post['id'] == blog_id %}
-                    <h1> {{ blog_post['title'] }} </h1>
-                    <h2> {{ blog_post['subtitle'] }} </h2>
-                    <p> {{ blog_post['body'] }} </p>
-                {% endif %}
-           {% endfor %}
+                <h1> {{ title }} </h1>
+                <h2> {{ subtitle }} </h2>
+                <p> {{ body }} </p>
             </div>
     </div>
 </div>
