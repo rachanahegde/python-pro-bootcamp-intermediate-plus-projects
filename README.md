@@ -72,3 +72,6 @@ I learned more about web development with Flask (specifically including static f
 
 <h2> Day 57: Templating with Jinja in Flask Applications </h2>
 I learned how to use jinja to produce dynamic HTML pages and build URLs as well as set up the blog template for the first part of the capstone project.
+
+<h2> Day 58: Bootstrap (Web Foundation) </h2>
+Learning how to use Bootstrap and reviewing some advanced CSS.
