@@ -74,4 +74,4 @@ I learned more about web development with Flask (specifically including static f
 I learned how to use jinja to produce dynamic HTML pages and build URLs as well as set up the blog template for the first part of the capstone project.
 
 <h2> Day 58: Bootstrap (Web Foundation) </h2>
-Learning how to use Bootstrap and reviewing some advanced CSS.
+I learned how to use Bootstrap and reviewed advanced CSS by building a doggy dating website called Tindog.  
