@@ -77,4 +77,4 @@ I learned how to use jinja to produce dynamic HTML pages and build URLs as well 
 I learned how to use Bootstrap and reviewed advanced CSS by building a doggy dating website called Tindog.  
 
 <h2> Day 59: Blog Capstone Project Part 2 - Adding Styling </h2>
-I built a multi-page blog website with an interactive navigation bar and dynamically generated blog post pages with full screen titles. It's also fully mobile responsive with an adaptive navigation bar.
+Using Jinja, Flask, and Bootstrap, I built a multi-page blog website with an interactive navigation bar and dynamically generated blog post pages with full screen titles. It's also fully mobile responsive with an adaptive navigation bar.
